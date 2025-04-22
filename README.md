@@ -20,7 +20,7 @@ This Python script generates a random CAPTCHA image using uppercase letters and 
 1. **Clone this repository:**
 
    ```bash
-   git clone <git@github.com:Mohamed-Aboelela-dev/-CAPTCHA_generator.git>
+   git clone <git@github.com:Mohamed-Aboelela-dev/CAPTCHA_generator.git>
    cd -CAPTCHA_generator
    ```
 
